@@ -1,0 +1,40 @@
+*{
+	font-family: 'Quicksand', sans-serif;
+	color: black;
+	background-color: #beige;
+	margin: 20px 10px 20px 10px;
+	overflow-wrap: break-word;
+}
+
+header {
+	text-align: center;
+}
+
+.blockLeft {
+	float:left;
+}
+.blockRight {
+	float:right;
+}
+
+
+section {
+	float: left;
+	width: 100%;
+	padding: 5px;
+}
+
+main {
+	float: right;
+	width: 90%;
+	padding: 5px;	
+}
+
+
+
+footer {
+	float: bottom;
+	width: 100%;
+	left:0px;
+	bottom:0px;
+}
